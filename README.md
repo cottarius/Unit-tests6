@@ -24,11 +24,11 @@ b. Сравнивает эти средние значения и выводит
 
 #### Домашняя работа
 
-[Код программы](https://github.com/ShumAhd/Unit---6/tree/main/hw_6/src/main/java/ro/shum)
+[Код программы](https://github.com/cottarius/Unit-tests6/tree/master/src/main/java)
 
-[Код тестов](https://github.com/ShumAhd/Unit---6/tree/main/hw_6/src/main/java/ro/shum)
+[Код тестов](https://github.com/cottarius/Unit-tests6/tree/master/src/test/java)
 
-![Отчёты Checkstyle и покрытие тестов на скрине](https://github.com/ShumAhd/Unit---6/blob/main/img/2024-01-19_160909.jpg)
+![Отчёты Checkstyle и покрытие тестов на скрине](https://github.com/cottarius/Unit-tests6/blob/master/img/2024-02-24_23-09-39.png)
 
 #### Объяснение того, какие сценарии покрыты тестами и почему вы выбрали именно эти сценарии.
 
